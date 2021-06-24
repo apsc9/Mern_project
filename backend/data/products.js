@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'baby girl designer dress',
     image: '/images/img_1.jpeg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'baby girl designer dress cap and socks',
     image: '/images/img_2.jpeg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'baby girl sweater and shoes',
     image: '/images/img_3.jpeg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'kids woollen shoes',
     image: '/images/img_4.jpeg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'kids woollen shoes pink',
     image: '/images/img_5.jpeg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'kids cap and socks',
     image: '/images/img_6.jpeg',
     description:
@@ -78,7 +72,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '7',
     name: 'Woollen pillow cover',
     image: '/images/img_7.jpeg',
     description:
@@ -91,7 +84,6 @@ const products = [
     numReviews: 41,
   },
   {
-    _id: '8',
     name: 'Women self designed sweater striped',
     image: '/images/img_8.jpeg',
     description:
@@ -104,7 +96,6 @@ const products = [
     numReviews: 24,
   },
   {
-    _id: '9',
     name: 'Women Poncho top multistriped',
     image: '/images/img_9.jpeg',
     description:
@@ -117,7 +108,6 @@ const products = [
     numReviews: 32
   },
   {
-    _id: '10',
     name: 'Women self designed cardigan dark gray',
     image: '/images/img_10.jpeg',
     description:
@@ -130,7 +120,6 @@ const products = [
     numReviews: 20,
   },
   {
-    _id: '11',
     name: 'Self designed handbag carrot color',
     image: '/images/img_11.jpeg',
     description:
@@ -143,7 +132,6 @@ const products = [
     numReviews: 42,
   },
   {
-    _id: '12',
     name: 'Self designed handbag multistriped',
     image: '/images/img_12.jpeg',
     description:
@@ -156,7 +144,6 @@ const products = [
     numReviews: 64,
   },
   {
-    _id: '13',
     name: 'Women self designed sweater mustard brown',
     image: '/images/img_13.jpeg',
     description:
@@ -169,7 +156,6 @@ const products = [
     numReviews: 56,
   },
   {
-    _id: '14',
     name: 'Women self designed sweater dark blue',
     image: '/images/img_14.jpeg',
     description:
@@ -182,7 +168,6 @@ const products = [
     numReviews: 42,
   },
   {
-    _id: '15',
     name: 'Women self designed sweater light brown',
     image: '/images/img_15.jpeg',
     description:
@@ -195,7 +180,6 @@ const products = [
     numReviews: 64,
   },
   {
-    _id: '16',
     name: 'Women self designed sweater pink',
     image: '/images/img_16.jpeg',
     description:
@@ -208,7 +192,6 @@ const products = [
     numReviews: 42,
   },
   {
-    _id: '17',
     name: 'Women self designed sweater carrot color',
     image: '/images/img_17.jpeg',
     description:
@@ -221,7 +204,6 @@ const products = [
     numReviews: 64,
   },
   {
-    _id: '18',
     name: 'Women self designed sweater navy',
     image: '/images/img_18.jpeg',
     description:
@@ -234,7 +216,6 @@ const products = [
     numReviews: 75,
   },
   {
-    _id: '19',
     name: 'Women self designed sweater off white',
     image: '/images/img_19.jpg',
     description:
@@ -247,7 +228,6 @@ const products = [
     numReviews: 50,
   },
   {
-    _id: '20',
     name: 'Women woollen gloves ',
     image: '/images/img_20.jpeg',
     description:
@@ -260,7 +240,6 @@ const products = [
     numReviews: 60,
   },
   {
-    _id: '21',
     name: 'Women muffler dark gray',
     image: '/images/img_21.jpeg',
     description:
@@ -273,7 +252,6 @@ const products = [
     numReviews: 36,
   },
   {
-    _id: '22',
     name: 'Men self designed sweater light blue',
     image: '/images/img_22.jpeg',
     description:
@@ -286,7 +264,6 @@ const products = [
     numReviews: 52,
   },
   {
-    _id: '23',
     name: 'Men self designed sweater olive green dark',
     image: '/images/img_23.jpeg',
     description:
@@ -299,7 +276,6 @@ const products = [
     numReviews: 50,
   },
   {
-    _id: '24',
     name: 'Men self designed sweater teal blue color',
     image: '/images/img_24.jpeg',
     description:
