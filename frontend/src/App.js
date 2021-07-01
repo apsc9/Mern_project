@@ -10,7 +10,6 @@ import LoginScreen from './screens/LoginScreen'
 
 const App = () => {
   return ( 
-    
     <Router>
       <Header />
       <main className='py-3'>
