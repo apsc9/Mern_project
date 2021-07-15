@@ -44,7 +44,7 @@ const products = [
     category: 'kids clothing',
     price: 200,
     countInStock: 11,
-    rating: 5,
+    rating: 4.5,
     numReviews: 12,
   },
   {
@@ -56,7 +56,7 @@ const products = [
     category: 'kids clothing',
     price: 200,
     countInStock: 7,
-    rating: 3.5,
+    rating: 4.5,
     numReviews: 10,
   },
   {
@@ -116,7 +116,7 @@ const products = [
     category: 'Women clothing',
     price: 699,
     countInStock: 12,
-    rating: 3.9,
+    rating: 5,
     numReviews: 20,
   },
   {
@@ -176,7 +176,7 @@ const products = [
     category: 'Women clothing',
     price: 899.99,
     countInStock: 54,
-    rating: 4.8,
+    rating: 5,
     numReviews: 64,
   },
   {
@@ -224,7 +224,7 @@ const products = [
     category: 'Women clothing',
     price: 899.99,
     countInStock: 20,
-    rating: 4.6,
+    rating: 5,
     numReviews: 50,
   },
   {
